@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lauriselvijs
-- 👀 I’m interested in Front-end and Back-end Web Development
+- 👀 I’m interested in front-end and back-end Web Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ReactJS app development
 - 📫 How to reach me lauriselvijsm@gmail.com
